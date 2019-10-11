@@ -32,3 +32,8 @@ Our Sensors:
 - [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-sds011#l_week) Outdoor sensor in Quận 7, at Nội khu Hưng Phước 1, Tân Phong, Hồ Chí Minh, Vietnam
 
 The measurements of the last year(s) are stored in the database as zip filed. Further project: import (automatically?) into a sqlite database and analyze/visualize with jupyter.
+
+## Reference
+
+1. [Project on instructables](https://www.instructables.com/id/How-to-Interface-With-Optical-Dust-Sensor/) from 2016
+2. [Datasheet Sharp GP2Y1010AU0F](https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2y1010au_appl_e.pdf)
