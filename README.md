@@ -1,5 +1,7 @@
 # AQI - Air Quality Index
 
+<img src="arduino/qr-map.png" width="30%" align="right">
+
 The air in Ho Chi Minh City is getting more and more polluted in recent years. Can we add some valid data to the smog and fog we see more often?
 
 ## Measure and educate
