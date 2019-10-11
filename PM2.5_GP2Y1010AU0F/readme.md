@@ -12,3 +12,8 @@ Respective particles/m^3 : 0.1*voltage + 0.9
 
 Other formulas: 
 0.17*voltage - 0.1
+
+## Sources
+
+[Instructables](https://www.instructables.com/id/How-to-Interface-With-Optical-Dust-Sensor/)
+[Commenthow 2016-07-11](http://www.commenthow.com/article/display/13580/0/How+to+interface+with+Optical+Dust+Sensor)
