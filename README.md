@@ -4,7 +4,11 @@ The air in Ho Chi Minh City is getting more and more polluted in recent years. C
 
 ## Measure and educate
 
-In order to understand the situation we want to build our own sensors and collect data. Building helps understand __WHAT__ AQI, PM10 and PM2.5 are and what the relation to our health is. The same time we learn __HOW__ to measure the quality of air
+In order to understand the situation we want to build our own sensors and collect data. Building helps understand __WHAT__ AQI, PM10 and PM2.5 are and what the relation to our health is. The same time we learn __HOW__ to measure the quality of air. We will try to measure Ozon, PM2.5 and Carbon Monoxide.
+
+1. [MQ-131](https://www.lazada.vn/products/mq-131-ozone-sensor-module-ozone-gas-detection-i334848456-s537210369.html?spm=a2o4n.searchlist.list.1.a2451d0cT7TbpJ&search=1) sensor with black cap for low concentration 390,000₫ 
+2. [GP2Y1010AU0F](https://icdayroi.com/cam-bien-bui-pm2-5gp2y1010au0f) PM2.5 sensor 102,000₫
+3. [LM393 CO MQ-7](https://icdayroi.com/cam-bien-khi-co-mq-7) CO sensor 10-1000 ppm (AQI 105-999) 25,000₫
 
 ## Simple Arduino, Sharp sensor and 1602 display
 
