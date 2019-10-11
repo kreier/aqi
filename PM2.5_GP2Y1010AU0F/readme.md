@@ -15,5 +15,5 @@ Other formulas:
 
 ## Sources
 
-[Instructables](https://www.instructables.com/id/How-to-Interface-With-Optical-Dust-Sensor/)
-[Commenthow 2016-07-11](http://www.commenthow.com/article/display/13580/0/How+to+interface+with+Optical+Dust+Sensor)
+1. [Instructables](https://www.instructables.com/id/How-to-Interface-With-Optical-Dust-Sensor/)
+2. [Commenthow 2016-07-11](http://www.commenthow.com/article/display/13580/0/How+to+interface+with+Optical+Dust+Sensor)
