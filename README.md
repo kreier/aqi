@@ -24,6 +24,8 @@ The sensor itself and the parts are roughly the same at (icdayroi.com):
 
 ## Luftdaten.info
 
+<img src="data/aqi-hcmc-2019-10-17.png" align="right">
+
 Measure the AQI at AISVN and publish the data. This is the map with our data:
 https://maps.luftdaten.info/#12/10.7422/106.7044 
 
