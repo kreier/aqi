@@ -34,3 +34,17 @@ The sensors submit data every 145 seconds we collect a lot of data. For processi
 ## Visualization
 
 We use mathpyplot to visualize. Some results:
+
+## More data
+
+Here is the list of sensors used so far:
+
+| id       | client     | mac               | ip             | pin | size    | NOVA | DHT22 | 1602 | BMP280 | BME280 | location    |
+|----------|------------|-------------------|----------------|-----|---------|------|-------|------|--------|--------|-------------|
+| 3633371  |            |                   |                | 16  | mini    |      | x     | x    |        |        | 413         |
+| 4872940  | ESP_4A5AEC | CC:50:E3:4A:5A:EC | 192.168.10.104 | 30  | narrow  |      |       |      |        |        | 413         |
+| 416796   | ESP_065C1C | 2C:3A:E8:06:5C:1C | 192.168.10.101 | 30  | narrow  |      |       |      |        |        | 413         |
+| 8808591  | ESP_86688F | 84:0D:8E:86:68:8F | 192.168.10.106 | 30  | wide    | x    | x     | x    |        |        | 413         |
+| 13455399 |            |                   |                | 17  | Arduino |      |       |      |        |        | Arduino     |
+| 12779556 |            |                   |                | 30  | narrow  | x    | x     |      |        |        | 407B        |
+| 1129419  |            |                   |                | 30  | narrow  | x    | x     |      |        |        | Phu My Hung |
