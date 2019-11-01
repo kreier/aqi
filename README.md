@@ -33,8 +33,13 @@ https://maps.luftdaten.info/#12/10.7422/106.7044
 
 Our Sensors:
 - [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011) Outdoor sensor in Nha Be at the campus of the AISVN
-- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011) Second sensor at AISVN, indoor in front of 407B as display
+- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011) Second sensor at AISVN, indoor in front of 407B as display - Micro NodeMCU 16pin, display, DHT22
 - [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-sds011#l_week) Outdoor sensor in Quận 7, at Nội khu Hưng Phước 1, Tân Phong, Hồ Chí Minh, Vietnam
+- [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011) Nha Be indoor with Nova SDS011 and DHT22, NodeMCU wide
+- [3633371] NodeMCU micro 16pin 1602 DHT22
+- [416796]() NodeMCU narrow 30pin
+- [4872940]() NodeMCU narrow 30pin
+- [13455399] NodeMCU on Arduino board
 
 The measurements of the last year(s) are stored in the database as zip filed. Further project: import (automatically?) into a sqlite database and analyze/visualize with jupyter.
 
