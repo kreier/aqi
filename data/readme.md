@@ -16,6 +16,8 @@ Link to csv data:
 
 ## Data processing to sqlite3 with kaggle
 
+<img src="aqi-hcmc-2019-10-17.png" align="right">
+
 Using data science tools at kaggle like panda on python and jupyter notebook we can convert the CSV raw data into a database. The process incolves the following steps: 
 
 1. Import csv files.
