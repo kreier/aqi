@@ -32,16 +32,20 @@ Measure the AQI at AISVN and publish the data. This is the map with our data:
 ## Database
 
 Our Sensors:
-- [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011) Outdoor sensor in Nha Be at the campus of the AISVN
-- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011) Second sensor at AISVN, indoor in front of 407B as display - Micro NodeMCU 16pin, display, DHT22
-- [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-sds011#l_week) Outdoor sensor in Quận 7, at Nội khu Hưng Phước 1, Tân Phong, Hồ Chí Minh, Vietnam
-- [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011) Nha Be indoor with Nova SDS011 and DHT22, NodeMCU wide
-- [3633371](https://www.madavi.de/sensor/graph.php?sensor=esp8266-3633371-dht22) NodeMCU micro 16pin 1602 DHT22
-- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-dht22) NodeMCU narrow 30pin
-- [4872940](https://www.madavi.de/sensor/graph.php?sensor=esp8266-4872940-dht22) NodeMCU narrow 30pin
-- [13455399](https://www.madavi.de/sensor/graph.php?sensor=esp8266-13455399-dht22) NodeMCU on Arduino board
+- [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011) Outdoor sensor in Nha Be at the campus of the AISVN with [DHT22](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)
+- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011) Second sensor at AISVN, indoor in front of 407B as display - Micro NodeMCU 16pin, display, [DHT22](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-dht)
+- [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-sds011#l_week) Outdoor sensor in Quận 7, at Nội khu Hưng Phước 1, Tân Phong, Hồ Chí Minh, Vietnam with [DHT22]()
+- [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011) Nha Be indoor with Nova SDS011 and [DHT22](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-dht), NodeMCU wide
+- [3633371](https://www.madavi.de/sensor/graph.php?sensor=esp8266-3633371-dht) NodeMCU micro 16pin 1602 DHT22
+- [416796](https://www.madavi.de/sensor/graph.php?sensor=esp8266-416796-dht) NodeMCU narrow 30pin
+- [4872940](https://www.madavi.de/sensor/graph.php?sensor=esp8266-4872940-dht) NodeMCU narrow 30pin
+- [13455399]() NodeMCU on Arduino board without sensor
 
 The measurements of the last year(s) are stored in the database as zip filed. Further project: import (automatically?) into a sqlite database and analyze/visualize with jupyter.
+
+## Sensor list
+
+will follow
 
 ## Reference
 
