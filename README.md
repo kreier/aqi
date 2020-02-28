@@ -3,16 +3,19 @@
 ## PM2.5 Nha Be (outdoor and indoor) and Phu My Hung outdoor, last 24 hours
 
 ![AISVN](https://www.madavi.de/sensor/images/sensor-esp8266-12779556-sds011-25-day.png)
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-8808591-sds011-25-day.png">
 ![Phy My Hung](https://www.madavi.de/sensor/images/sensor-esp8266-1129419-sds011-25-day.png)
 
 ## Temperature
 
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-1-day.png">
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-8808591-dht-1-day.png">
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-1129419-dht-1-day.png">
 
 ## Humidity
 
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-25-day.png">
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-8808591-dht-25-day.png">
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-1129419-dht-25-day.png">
 
 
@@ -68,7 +71,11 @@ The measurements of the last year(s) are stored in the database as zip filed. Fu
 
 ## Sensor list
 
-will follow
+|                |  PM2.5 and PM10        |    Temp./Humidity      | Details            |
+|----------------|------------------------|------------------------|--------------------|
+| Nha Be outdoor | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011)           | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2019 |
+| AISVN indoor   | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011)           | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-dht)           | Indoor since 2019  |
+| Phy My Hung    | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011)           | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2018 |
 
 ## Video
 
