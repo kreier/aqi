@@ -1,8 +1,31 @@
 # AQI - Air Quality Index
 
-<img src="arduino/qr-map.png" width="30%" align="right">
+## PM2.5 Nha Be (outdoor and indoor) and Phu My Hung outdoor, last 24 hours
+
+![AISVN](https://www.madavi.de/sensor/images/sensor-esp8266-12779556-sds011-25-day.png)
+![Phy My Hung](https://www.madavi.de/sensor/images/sensor-esp8266-1129419-sds011-25-day.png)
+
+## Temperature
+
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-1-day.png">
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-1129419-dht-1-day.png">
+
+## Humidity
+
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-25-day.png">
+<img src="https://www.madavi.de/sensor/images/sensor-esp8266-1129419-dht-25-day.png">
+
+
+
+## More specific sensor data
+
+
+PM 2.5 and PM10
+Temperature and Humidity
 
 The air in Ho Chi Minh City is getting more and more polluted in recent years. Can we add some valid data to the smog and fog we see more often?
+
+<img src="arduino/qr-map.png" width="30%" align="right">
 
 ## Measure and educate
 
@@ -46,6 +69,10 @@ The measurements of the last year(s) are stored in the database as zip filed. Fu
 ## Sensor list
 
 will follow
+
+## Video
+
+Here is [the link](https://youtu.be/julMgNcVdVA).
 
 ## Reference
 
