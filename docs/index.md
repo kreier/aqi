@@ -20,12 +20,33 @@ Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgI
 
 Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
 
+## Build your own sensor
 
-## PM2.5 Nha Be (outdoor and indoor) and Phu My Hung outdoor, last 24 hours
+You can actually build your own sensor and contribute to a worldwide network of air quality sensors. In europe many people did so and the real-time results on a map look like this:
 
-![AISVN](https://www.madavi.de/sensor/images/sensor-esp8266-12779556-sds011-25-day.png)
-<img src="https://www.madavi.de/sensor/images/sensor-esp8266-8808591-sds011-25-day.png">
-![Phy My Hung](https://www.madavi.de/sensor/images/sensor-esp8266-1129419-sds011-25-day.png)
+![Europe November 2020](europe.png)
+
+The updated map can be [found behind this link](https://maps.sensor.community/#13/10.7147/106.6886). In Eurasia there are less seonsors:
+
+![Eurasia November 2020](eurasia.png)
+
+And worldwide some more updates are needed:
+
+![World November 2020](world.png)
+
+## More data - PM10, temperature, humidity, Wifi
+
+The stations not just measure the PM2.5 value, but other values as well. Let's take the station in Phy My Hung for example (1129419), running since 2018:
+
+### PM 10 over a week
+
+### Temperature over a week
+
+### Change in humidity
+
+### Wifi signal strength
+
+
 
 ## Temperature
 
