@@ -1,5 +1,31 @@
 # AQI - Air Quality Index
 
+As of now we have 4 sensors installed that transmit data every 5 minutes and collect the measurements in a database. Two sensors are located in Nha Be (one indoors and one outdoors) and another one is located in Phy My Hung. Let's compare the PM 2.5 values from last year:
+
+## Nha Be outdoor (12779556)
+
+![Nha Be 2020](docs/nhabe2020.png)
+
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556) to the dashboard for all the recent data.
+
+## Nha Be indoor (8808591)
+
+![Nha Be 2020](docs/aisvn2020.png)
+
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591) to the dashboard for all the recent data.
+
+## Phy My Hung outdoor (1129419)
+
+![Nha Be 2020](docs/phumy2020.png)
+
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
+
+## Phy My Hung indoor (1129419)
+
+![Nha Be 2020](docs/phumy2020.png)
+
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
+
 ## PM2.5 Nha Be (outdoor and indoor) and Phu My Hung outdoor, last 24 hours
 
 ![AISVN](https://www.madavi.de/sensor/images/sensor-esp8266-12779556-sds011-25-day.png)
