@@ -95,7 +95,16 @@ Our Sensors:
 
 The measurements of the last year(s) are stored in the database as zip filed. Further project: import (automatically?) into a sqlite database and analyze/visualize with jupyter.
 
-## Sensor list
+## Sensor list 2020
+
+|                |  PM2.5 and PM10        |    Temp./Humidity      | WiFi               | Details            |
+|----------------|------------------------|------------------------|--------------------|--------------------|
+| Nha Be outdoor | [12779556](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556)  | [12779556](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-12779556) | [12779556](https://api-rrd.madavi.de/grafana/d/Fk6mw1WGz/wifi-signal?orgId=1&var-chipID=esp8266-12779556)  | Outdoor since 2019 |
+| AISVN indoor   | [8808591](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591)    | [8808591](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-8808591)  | [8808591](https://api-rrd.madavi.de/grafana/d/Fk6mw1WGz/wifi-signal?orgId=1&var-chipID=esp8266-8808591)         | Indoor since 2019  |
+| Phy My Hung    | [1129419](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-1129419)    | [1129419](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-1129419)  | [1129419](https://api-rrd.madavi.de/grafana/d/Fk6mw1WGz/wifi-signal?orgId=1&var-chipID=esp8266-1129419)        | Outdoor since 2018 |
+| Phy My Hung indoor   |            | [4872940](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-4872940)  | [4872940](https://api-rrd.madavi.de/grafana/d/Fk6mw1WGz/wifi-signal?orgId=1&var-chipID=esp8266-4872940)        | Indoor since 2019 |
+
+## Sensor list 2019
 
 |                |  PM2.5 and PM10        |    Temp./Humidity      | Details            |
 |----------------|------------------------|------------------------|--------------------|
