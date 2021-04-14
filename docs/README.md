@@ -6,25 +6,27 @@ As of now we have 3 sensors installed that transmit data every 5 minutes and col
 
 ![Nha Be 2020](nhabe2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-12779556).
+
 
 ## Nha Be indoor (8808591)
 
 ![Nha Be 2020](aisvn2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-8808591).
+
 
 ## Phy My Hung outdoor (1129419)
 
 ![Nha Be 2020](phumy2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-1129419).
 
 ## Phy My Hung indoor (1129419)
 
 ![Nha Be 2020](phumy2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-1129419).
 
 ## PM2.5 Nha Be (outdoor and indoor) and Phu My Hung outdoor, last 24 hours
 
