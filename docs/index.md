@@ -80,7 +80,7 @@ Temperature and Humidity
 
 The air in Ho Chi Minh City is getting more and more polluted in recent years. Can we add some valid data to the smog and fog we see more often?
 
-<img src="https://github.com/kreier/aqi/blob/main/arduino/qr-map.png" width="30%" align="right">
+<img src="https://raw.githubusercontent.com/kreier/aqi/main/arduino/qr-map.png" width="30%" align="right">
 
 
 ## Measure and educate
@@ -103,7 +103,7 @@ The sensor itself and the parts are roughly the same at (icdayroi.com):
 
 ## Luftdaten.info
 
-<img src="https://github.com/kreier/aqi/blob/main/data/aqi-hcmc-2019-10-17.png" align="right">
+<img src="https://raw.githubusercontent.com/kreier/aqi/main/data/aqi-hcmc-2019-10-17.png" align="right">
 
 Measure the AQI at AISVN and publish the data. This is the map with our data:
 [https://maps.luftdaten.info/#12/10.7422/106.7044](https://maps.luftdaten.info/#12/10.7422/106.7044) 
@@ -130,7 +130,7 @@ The measurements of the last year(s) are stored in the database as zip filed. Fu
 | Nha Be outdoor | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011)    | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2019 |
 | AISVN indoor   | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011)      | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-dht)           | Indoor since 2019  |
 | Phy My Hung    | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011)      | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2018 |
-| Phy My Hung    |                       | [4872940](https://www.madavi.de/sensor/graph.php?sensor=esp8266-4872940-dht)           | Indoor since 2020 |
+| Phy My Hung    |                       | [4872940](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-4872940)           | Indoor since 2020 |
 
 ## Video
 
