@@ -6,19 +6,29 @@ As of now we have 3 sensors installed that transmit data every 5 minutes and col
 
 ![Nha Be 2020](nhabe2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-12779556) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-12779556).
+
 
 ## Nha Be indoor (8808591)
 
 ![Nha Be 2020](aisvn2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&var-chipID=esp8266-8808591) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-8808591).
+
 
 ## Phy My Hung outdoor (1129419)
 
 ![Nha Be 2020](phumy2020.png)
 
-Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data.
+Here is [the link](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&var-chipID=esp8266-1129419) to the dashboard for all the recent data of PM2.5 and PM10. Further there is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-1129419).
+
+
+## Phy My Hung indoor (4872940)
+
+![Phu My 2021](phumy2.png)
+
+Here is [humidity and temperature](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-4872940) most recent.
+
 
 ## Build your own sensor
 
@@ -47,7 +57,7 @@ The stations not just measure the PM2.5 value, but other values as well. Let's t
 ### Wifi signal strength
 
 
-
+<!--
 ## Temperature
 
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-1-day.png">
@@ -59,7 +69,7 @@ The stations not just measure the PM2.5 value, but other values as well. Let's t
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-12779556-dht-25-day.png">
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-8808591-dht-25-day.png">
 <img src="https://www.madavi.de/sensor/images/sensor-esp8266-1129419-dht-25-day.png">
-
+-->
 
 
 ## More specific sensor data
@@ -70,7 +80,8 @@ Temperature and Humidity
 
 The air in Ho Chi Minh City is getting more and more polluted in recent years. Can we add some valid data to the smog and fog we see more often?
 
-<img src="arduino/qr-map.png" width="30%" align="right">
+<img src="https://raw.githubusercontent.com/kreier/aqi/main/arduino/qr-map.png" width="30%" align="right">
+
 
 ## Measure and educate
 
@@ -92,10 +103,11 @@ The sensor itself and the parts are roughly the same at (icdayroi.com):
 
 ## Luftdaten.info
 
-<img src="data/aqi-hcmc-2019-10-17.png" align="right">
+<img src="https://raw.githubusercontent.com/kreier/aqi/main/data/aqi-hcmc-2019-10-17.png" align="right">
 
 Measure the AQI at AISVN and publish the data. This is the map with our data:
 [https://maps.luftdaten.info/#12/10.7422/106.7044](https://maps.luftdaten.info/#12/10.7422/106.7044) 
+
 
 ## Database
 
@@ -115,9 +127,10 @@ The measurements of the last year(s) are stored in the database as zip filed. Fu
 
 |                |  PM2.5 and PM10        |    Temp./Humidity      | Details            |
 |----------------|------------------------|------------------------|--------------------|
-| Nha Be outdoor | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011)           | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2019 |
-| AISVN indoor   | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011)           | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-dht)           | Indoor since 2019  |
-| Phy My Hung    | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011)           | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2018 |
+| Nha Be outdoor | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-sds011)    | [12779556](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2019 |
+| AISVN indoor   | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-sds011)      | [8808591](https://www.madavi.de/sensor/graph.php?sensor=esp8266-8808591-dht)           | Indoor since 2019  |
+| Phy My Hung    | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-1129419-sds011)      | [1129419](https://www.madavi.de/sensor/graph.php?sensor=esp8266-12779556-dht)           | Outdoor since 2018 |
+| Phy My Hung    |                       | [4872940](https://api-rrd.madavi.de/grafana/d/q87EBfWGk/temperature-humidity-pressure?orgId=1&var-chipID=esp8266-4872940)           | Indoor since 2020 |
 
 ## Video
 
